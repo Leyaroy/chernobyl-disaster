@@ -22,3 +22,53 @@ INES Level 7 (major accident) see Chernobyl disaster effects
 Chernobyl Nuclear Power Plant, Ukraine
 
 The Project calls for the student to highlighting Success,Failures and Consequences due to this Disaster. Politics around 
+
+## **Successes:**
+
+1. ##item
+   * Mixed
+   * Mixed
+   * 
+2. ##Item
+   * Mixed
+   * Mixed  
+3. ##Item
+   * Mixed
+   * Mixed
+   * Mixed
+
+
+## **Failures:**
+
+1. ##item
+   * Mixed
+   * Mixed
+   * 
+2. ##Item
+   * Mixed
+   * Mixed  
+3. ##Item
+   * Mixed
+   * Mixed
+   * Mixed
+
+
+## **Consequence:**
+
+1. ##
+   * Fire caused inside the power plant.
+   * Mixed
+   * 
+2. ##Released plume of radiation.
+   * The radiation could reach 28,000 square kilometers.
+   * Made many illnesses, estimation of 50 dozens contracted serious radiation sickness.
+3. ##Long term effect on the earth.
+   * Mixed
+   * Mixed
+   * Mixed
+
+
+##**Refrence Sources**
+
+[1]: http://example.com/ "Title"
+[2]: http://example.org/ "Title"
