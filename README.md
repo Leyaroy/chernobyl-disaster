@@ -25,8 +25,8 @@ The Project calls for the student to highlighting Success,Failures and Consequen
 
 ## **Successes:**
 
-1. ##item
-   * Mixed
+1. ##Almost successful powerplant.
+   * Pressure tube design that used enriched uranimum doxide fuel to heat water creating steam that drives the reactors' turbines and generates electricity.
    * Mixed
    * 
 2. ##Item
@@ -40,7 +40,7 @@ The Project calls for the student to highlighting Success,Failures and Consequen
 
 ## **Failures:**
 
-1. ##item
+1. ##Flaw in the design
    * Mixed
    * Mixed
    * 
@@ -55,15 +55,15 @@ The Project calls for the student to highlighting Success,Failures and Consequen
 
 ## **Consequence:**
 
-1. ##
+1. ##item
    * Fire caused inside the power plant.
-   * Mixed
+   * Power surge led to a series of blasts, at 1:24am. Which blew off the reactors heavy, steel, concrete lid.
    * 
 2. ##Released plume of radiation.
-   * The radiation could reach 28,000 square kilometers.
-   * Made many illnesses, estimation of 50 dozens contracted serious radiation sickness.
+   * Sent a cloud of radioactive dust billowing across nothern and western europe, reaching as far as eastern United States.
+   * This cause many illnesses. around 50 dozen people were exposed to cancer or high radiation sickness, only 31 were documented dead due to the explosion. Many later died due to a sickness.
 3. ##Long term effect on the earth.
-   * Mixed
+   * In present day it effects.
    * Mixed
    * Mixed
 
