@@ -26,7 +26,7 @@ The Project calls for the student to highlighting Success,Failures and Consequen
 ## **Successes:**
 
 1. ##Almost successful powerplant.
-   * Pressure tube design that used enriched uranimum doxide fuel to heat water creating steam that drives the reactors' turbines and generates electricity.
+   * Consisted of the RBMK-10000 design, Units were contructed in 1977. RBMK reactors were of a pressure tube design that used enriched uranimum doxide fuel to heat water creating steam that drives the reactors' turbines and generates electricity.
    * Mixed
    * 
 2. ##Item
@@ -56,14 +56,14 @@ The Project calls for the student to highlighting Success,Failures and Consequen
 ## **Consequence:**
 
 1. ##item
-   * Fire caused inside the power plant.
-   * Power surge led to a series of blasts, at 1:24am. Which blew off the reactors heavy, steel, concrete lid.
-   * 
+   * The reactors were highly unstable at a low power, due to control rod design, these factors contributed to an uncontrollable power surge that led to a series of blasts, at 1:24am. Which blew off the reactors heavy, steel, concrete lid.
+   * Mixed
+   * Mixed
 2. ##Released plume of radiation.
-   * Sent a cloud of radioactive dust billowing across nothern and western europe, reaching as far as eastern United States.
-   * This cause many illnesses. around 50 dozen people were exposed to cancer or high radiation sickness, only 31 were documented dead due to the explosion. Many later died due to a sickness.
+   * Because of the Chernobyl powerplant blowing up it sent a cloud of radioactive dust billowing across nothern and western europe, reaching as far as eastern United States. Many radioactive particles were released into the air this caused many illnesses including cancer and high radiation sickness. more than 50 dozen had fallen ill, 31 documented dead during the explosion, some dying later due to these affects.
+   * Mixed
 3. ##Long term effect on the earth.
-   * In present day it effects.
+   * In present day it effects our enviroment by. Fears remain that the world's worst nuclear disaster could still trigger cancer, illness and more deaths.
    * Mixed
    * Mixed
 
